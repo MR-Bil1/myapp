@@ -27,7 +27,7 @@ SECRET_KEY='1!t-htjh_7^v!0e7&&@$svm06l5+*hs3ze1#aih&xu9ly)%n%w'
 # SECURITY WARNING: don't run with debug turned on in production!
 #DEBUG = os.environ.get('DEBUG')
 DEBUG="true"
-ALLOWED_HOSTS = ['tfitter.herokuapp.com']
+ALLOWED_HOSTS = ['limitless-sea-20147.herokuapp.com']
 
 
 # Application definition
